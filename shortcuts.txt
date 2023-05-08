@@ -1,0 +1,30 @@
+SHORTCUTS in Intellij
+
+ctr + Alt + l -> to format everything selected
+
+Alt + ctrl + b
+when on controller, and want to reach direct serviceImpl without going to service class
+
+alt + ctrl + v
+mouse pointer at the end of stmt and press this command to get the return type of that stmt
+
+alt + ~
+in any class, press this command to see git operations and who performed what in this file
+
+ctrl + ~ 
+this will open editor color scheme setting
+
+ctrl + d
+put the mouse pointer at the end of any stmt in order to copy that entire line into the following line
+
+ctrl + x
+this will cut the entire stmt (copies to clipboard in short)
+
+
+
+General SHORTCUTS
+when pasting use ctrl + shift + v to match the destination format
+
+
+
+
