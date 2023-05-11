@@ -20,7 +20,17 @@ put the mouse pointer at the end of any stmt in order to copy that entire line i
 ctrl + x
 this will cut the entire stmt (copies to clipboard in short)
 
+ctrl+shift+i 
+shows method definition
 
+ctrl+G 
+to go to a particular line number
+
+alt+enter 
+gives import suggestion
+
+ctrl+alt+leftarrow 
+to go to previous file
 
 General SHORTCUTS
 when pasting use ctrl + shift + v to match the destination format
